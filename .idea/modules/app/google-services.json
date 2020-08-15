@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508083620110",
+    "firebase_url": "https://agribuddy-d74fd.firebaseio.com",
+    "project_id": "agribuddy-d74fd",
+    "storage_bucket": "agribuddy-d74fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508083620110:android:f0f01e6d496ac071b4af5f",
+        "android_client_info": {
+          "package_name": "com.example.agribuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508083620110-roiujjpv8evp3bl4eujmb3fdjv935gp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agribuddy",
+            "certificate_hash": "d20fbc5b1bae160a749062bd3d08485c8e873ef5"
+          }
+        },
+        {
+          "client_id": "508083620110-i1j7t5biputamik8icnuk51rt1v8g1oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOA9lu5TWJX3bRWuQEftc1tVF-Owwh0oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508083620110-i1j7t5biputamik8icnuk51rt1v8g1oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
